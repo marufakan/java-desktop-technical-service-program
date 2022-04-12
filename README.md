@@ -1,5 +1,5 @@
 # java-desktop-technical-service
-- We developed a desktop program with Java as the first project with Java in the Java fullstack training of the Istanbul education academy. On the same screen as the technical service program, the user can display customer information, device status information, and ready-to-repair products on the screen.
+- We developed a desktop program with Java as the first project with Java in the Java fullstack training of the Istanbul eğitim akedemi. On the same screen as the technical service program, the user can display customer information, device status information, and ready-to-repair products on the screen.
 
 ### Languages, Technologies and Environments Used in this Project
 
