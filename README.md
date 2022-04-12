@@ -11,40 +11,40 @@
 
 | Login |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-technical-service/blob/main/img/login.gif" >|
+|<img src="https://github.com/maruf04/java-desktop-technical-service-program/blob/main/img/login.gif" >|
 
 - The user can login to the Technical Service Program with the login screen.
 
 | Dashboard |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-technical-service/blob/main/img/dashboard.gif" >|
+|<img src="https://github.com/maruf04/java-desktop-technical-service-program/blob/main/img/dashboard.gif" >|
 
 - With the Dashboard page, there are two tables that list the products to be repaired, the products that have been repaired and the products to be delivered to the customer. The user can search on them. On the Dashboard screen, the user can navigate to the Customer, Service, and Archive pages.
 
 | CustomerAdd |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-technical-service/blob/main/img/customer.gif" >|
+|<img src="https://github.com/maruf04/java-desktop-technical-service-program/blob/main/img/customer.gif" >|
 
 - With the Customer page, customers can add, delete, update and search the customer table.
 
 | Services |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-technical-service/blob/main/img/service.gif" >|
+|<img src="https://github.com/maruf04/java-desktop-technical-service-program/blob/main/img/service.gif" >|
 - On the Service screen, you can create a record for a new fault product, edit the created record, delete it, and search the records.
 
 | Archive |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-technical-service/blob/main/img/archive.gif" >|
+|<img src="https://github.com/maruf04/java-desktop-technical-service-program/blob/main/img/archive.gif" >|
 - On the Archive screen, there is a table containing the previously repaired and delivered products and the information of the owners of these products. The user can search among these products.
 
 | Program |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-technical-service/blob/main/img/1.gif" >|
+|<img src="https://github.com/maruf04/java-desktop-technical-service-program/blob/main/img/1.gif" >|
 
 #### Database Model
 | Database Model |
 | ------------ |
-|<img src="https://github.com/maruf04/java-desktop-technical-service/blob/main/img/SQLLiteDB.png" width="750">|
+|<img src="https://github.com/maruf04/java-desktop-technical-service-program/blob/main/img/SQLLiteDB.png" width="750">|
                 
 + models
     + IUser
